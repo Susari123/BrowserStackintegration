@@ -1,0 +1,1137 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - complementary [ref=e6]:
+        - generic [ref=e7]:
+          - img [ref=e8]
+          - button [ref=e9] [cursor=pointer]
+        - navigation [ref=e14]:
+          - button [ref=e15]:
+            - img [ref=e18] [cursor=pointer]
+          - button [ref=e21]:
+            - img [ref=e24] [cursor=pointer]
+          - button [ref=e27]:
+            - img [ref=e30] [cursor=pointer]
+          - button [ref=e33]:
+            - img [ref=e36] [cursor=pointer]
+          - button [ref=e39]:
+            - img [ref=e42] [cursor=pointer]
+          - button [ref=e45]:
+            - img [ref=e48] [cursor=pointer]
+          - button [ref=e51]:
+            - img [ref=e54] [cursor=pointer]
+          - button [ref=e57]:
+            - img [ref=e60] [cursor=pointer]
+          - button [ref=e63]:
+            - img [ref=e66] [cursor=pointer]
+      - banner [ref=e69]:
+        - generic [ref=e71]:
+          - heading [level=4] [ref=e72]: Patients
+          - generic [ref=e73]:
+            - button [ref=e79] [cursor=pointer]:
+              - generic [ref=e80] [cursor=pointer]:
+                - img [ref=e82] [cursor=pointer]
+                - text: Create
+            - generic [ref=e87] [cursor=pointer]:
+              - combobox [expanded] [ref=e88]
+              - generic [ref=e89]: Ctrl + k
+            - generic [ref=e90]:
+              - button [ref=e93] [cursor=pointer]:
+                - generic:
+                  - img
+              - generic [ref=e99]:
+                - button [ref=e101] [cursor=pointer]:
+                  - generic:
+                    - img
+                - status [ref=e103]
+              - button [ref=e107] [cursor=pointer]:
+                - generic:
+                  - img
+              - button [ref=e112] [cursor=pointer]:
+                - generic:
+                  - img
+              - generic [ref=e113]:
+                - button [ref=e114] [cursor=pointer]: RW
+                - generic [ref=e115]:
+                  - generic [ref=e117] [cursor=pointer]: RW
+                  - generic [ref=e118]:
+                    - generic [ref=e119]: Robert WilliamsThree
+                    - paragraph [ref=e120]: souravsusari311@gmail.com
+                - generic [ref=e122] [cursor=pointer]:
+                  - img [ref=e125] [cursor=pointer]
+                  - paragraph [ref=e127] [cursor=pointer]: User Preferences
+                - generic [ref=e129] [cursor=pointer]:
+                  - img [ref=e132] [cursor=pointer]
+                  - paragraph [ref=e134] [cursor=pointer]: Logout
+                - paragraph [ref=e137]: Edvak EHR v1
+      - main [ref=e138]:
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - heading [level=1] [ref=e143]: Patient List
+              - button [ref=e148] [cursor=pointer]:
+                - img [ref=e150] [cursor=pointer]
+            - generic [ref=e153]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: "448"
+                - text: Patients Found
+              - generic [ref=e156]:
+                - generic [ref=e157]: Search Patient
+                - textbox [ref=e158]: "*"
+          - table [ref=e161]:
+            - rowgroup [ref=e168]:
+              - row [ref=e169]:
+                - cell [ref=e170] [cursor=pointer]:
+                  - generic [ref=e171] [cursor=pointer]: Name
+                - cell [ref=e172]: MRN
+                - cell [ref=e173] [cursor=pointer]:
+                  - generic [ref=e174] [cursor=pointer]: Payer
+                - cell [ref=e175]: Created by
+                - cell [ref=e176]: Phone Number
+            - rowgroup [ref=e177]:
+              - row [ref=e178]:
+                - cell [ref=e179]
+              - button [ref=e180] [cursor=pointer]:
+                - cell [ref=e181] [cursor=pointer]:
+                  - generic [ref=e182] [cursor=pointer]:
+                    - img [ref=e187] [cursor=pointer]
+                    - generic [ref=e188] [cursor=pointer]:
+                      - heading [level=6] [ref=e189] [cursor=pointer]:
+                        - text: Second Playwright
+                        - generic [ref=e190] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e192] [cursor=pointer]:
+                        - generic [ref=e193] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e194] [cursor=pointer]: 03-06-2010
+                - cell [ref=e195] [cursor=pointer]:
+                  - generic [ref=e196] [cursor=pointer]: M6SA3T121975
+                - cell [ref=e197] [cursor=pointer]:
+                  - generic [ref=e199] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e200] [cursor=pointer]:
+                  - generic [ref=e201] [cursor=pointer]:
+                    - generic [ref=e204] [cursor=pointer]: RW
+                    - generic [ref=e205] [cursor=pointer]:
+                      - paragraph [ref=e206] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e207] [cursor=pointer]: "Created on: 10-14-2025 02:44 AM"
+                - cell [ref=e208] [cursor=pointer]:
+                  - generic [ref=e210] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e211] [cursor=pointer]:
+                    - button [ref=e213] [cursor=pointer]:
+                      - img [ref=e215] [cursor=pointer]
+                    - button [ref=e218] [cursor=pointer]:
+                      - img [ref=e220] [cursor=pointer]
+                    - button [ref=e225] [cursor=pointer]:
+                      - img [ref=e227] [cursor=pointer]
+                    - button [ref=e231] [cursor=pointer]:
+                      - img [ref=e233] [cursor=pointer]
+                    - button [ref=e237] [cursor=pointer]:
+                      - img [ref=e239] [cursor=pointer]
+              - button [ref=e242] [cursor=pointer]:
+                - cell [ref=e243] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]:
+                    - img [ref=e249] [cursor=pointer]
+                    - generic [ref=e250] [cursor=pointer]:
+                      - heading [level=6] [ref=e251] [cursor=pointer]:
+                        - text: Second Playwright
+                        - generic [ref=e252] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e254] [cursor=pointer]:
+                        - generic [ref=e255] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e256] [cursor=pointer]: 03-06-2010
+                - cell [ref=e257] [cursor=pointer]:
+                  - generic [ref=e258] [cursor=pointer]: M6SA3T121974
+                - cell [ref=e259] [cursor=pointer]:
+                  - generic [ref=e261] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e262] [cursor=pointer]:
+                  - generic [ref=e263] [cursor=pointer]:
+                    - generic [ref=e266] [cursor=pointer]: RW
+                    - generic [ref=e267] [cursor=pointer]:
+                      - paragraph [ref=e268] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e269] [cursor=pointer]: "Created on: 10-14-2025 02:42 AM"
+                - cell [ref=e270] [cursor=pointer]:
+                  - generic [ref=e272] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e273] [cursor=pointer]:
+                    - button [ref=e275] [cursor=pointer]:
+                      - img [ref=e277] [cursor=pointer]
+                    - button [ref=e280] [cursor=pointer]:
+                      - img [ref=e282] [cursor=pointer]
+                    - button [ref=e287] [cursor=pointer]:
+                      - img [ref=e289] [cursor=pointer]
+                    - button [ref=e293] [cursor=pointer]:
+                      - img [ref=e295] [cursor=pointer]
+                    - button [ref=e299] [cursor=pointer]:
+                      - img [ref=e301] [cursor=pointer]
+              - button [ref=e304] [cursor=pointer]:
+                - cell [ref=e305] [cursor=pointer]:
+                  - generic [ref=e306] [cursor=pointer]:
+                    - img [ref=e311] [cursor=pointer]
+                    - generic [ref=e312] [cursor=pointer]:
+                      - heading [level=6] [ref=e313] [cursor=pointer]:
+                        - text: Second Playwright
+                        - generic [ref=e314] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e316] [cursor=pointer]:
+                        - generic [ref=e317] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e318] [cursor=pointer]: 03-06-2010
+                - cell [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]: M6SA3T121973
+                - cell [ref=e321] [cursor=pointer]:
+                  - generic [ref=e323] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e324] [cursor=pointer]:
+                  - generic [ref=e325] [cursor=pointer]:
+                    - generic [ref=e328] [cursor=pointer]: RW
+                    - generic [ref=e329] [cursor=pointer]:
+                      - paragraph [ref=e330] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e331] [cursor=pointer]: "Created on: 10-14-2025 01:41 AM"
+                - cell [ref=e332] [cursor=pointer]:
+                  - generic [ref=e334] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e335] [cursor=pointer]:
+                    - button [ref=e337] [cursor=pointer]:
+                      - img [ref=e339] [cursor=pointer]
+                    - button [ref=e342] [cursor=pointer]:
+                      - img [ref=e344] [cursor=pointer]
+                    - button [ref=e349] [cursor=pointer]:
+                      - img [ref=e351] [cursor=pointer]
+                    - button [ref=e355] [cursor=pointer]:
+                      - img [ref=e357] [cursor=pointer]
+                    - button [ref=e361] [cursor=pointer]:
+                      - img [ref=e363] [cursor=pointer]
+              - button [ref=e366] [cursor=pointer]:
+                - cell [ref=e367] [cursor=pointer]:
+                  - generic [ref=e368] [cursor=pointer]:
+                    - img [ref=e373] [cursor=pointer]
+                    - generic [ref=e374] [cursor=pointer]:
+                      - heading [level=6] [ref=e375] [cursor=pointer]:
+                        - text: Second Playwright
+                        - generic [ref=e376] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e378] [cursor=pointer]:
+                        - generic [ref=e379] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e380] [cursor=pointer]: 03-06-2010
+                - cell [ref=e381] [cursor=pointer]:
+                  - generic [ref=e382] [cursor=pointer]: M6SA3T121972
+                - cell [ref=e383] [cursor=pointer]:
+                  - generic [ref=e385] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e386] [cursor=pointer]:
+                  - generic [ref=e387] [cursor=pointer]:
+                    - generic [ref=e390] [cursor=pointer]: RW
+                    - generic [ref=e391] [cursor=pointer]:
+                      - paragraph [ref=e392] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e393] [cursor=pointer]: "Created on: 10-14-2025 01:39 AM"
+                - cell [ref=e394] [cursor=pointer]:
+                  - generic [ref=e396] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e397] [cursor=pointer]:
+                    - button [ref=e399] [cursor=pointer]:
+                      - img [ref=e401] [cursor=pointer]
+                    - button [ref=e404] [cursor=pointer]:
+                      - img [ref=e406] [cursor=pointer]
+                    - button [ref=e411] [cursor=pointer]:
+                      - img [ref=e413] [cursor=pointer]
+                    - button [ref=e417] [cursor=pointer]:
+                      - img [ref=e419] [cursor=pointer]
+                    - button [ref=e423] [cursor=pointer]:
+                      - img [ref=e425] [cursor=pointer]
+              - button [ref=e428] [cursor=pointer]:
+                - cell [ref=e429] [cursor=pointer]:
+                  - generic [ref=e430] [cursor=pointer]:
+                    - img [ref=e435] [cursor=pointer]
+                    - generic [ref=e436] [cursor=pointer]:
+                      - heading [level=6] [ref=e437] [cursor=pointer]:
+                        - text: Firstk Playwright
+                        - generic [ref=e438] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e440] [cursor=pointer]:
+                        - generic [ref=e441] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e442] [cursor=pointer]: 03-06-2010
+                - cell [ref=e443] [cursor=pointer]:
+                  - generic [ref=e444] [cursor=pointer]: M6SA3T121971
+                - cell [ref=e445] [cursor=pointer]:
+                  - generic [ref=e447] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e448] [cursor=pointer]:
+                  - generic [ref=e449] [cursor=pointer]:
+                    - generic [ref=e452] [cursor=pointer]: RW
+                    - generic [ref=e453] [cursor=pointer]:
+                      - paragraph [ref=e454] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e455] [cursor=pointer]: "Created on: 10-10-2025 12:09 AM"
+                - cell [ref=e456] [cursor=pointer]:
+                  - generic [ref=e458] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e459] [cursor=pointer]:
+                    - button [ref=e461] [cursor=pointer]:
+                      - img [ref=e463] [cursor=pointer]
+                    - button [ref=e466] [cursor=pointer]:
+                      - img [ref=e468] [cursor=pointer]
+                    - button [ref=e473] [cursor=pointer]:
+                      - img [ref=e475] [cursor=pointer]
+                    - button [ref=e479] [cursor=pointer]:
+                      - img [ref=e481] [cursor=pointer]
+                    - button [ref=e485] [cursor=pointer]:
+                      - img [ref=e487] [cursor=pointer]
+              - button [ref=e490] [cursor=pointer]:
+                - cell [ref=e491] [cursor=pointer]:
+                  - generic [ref=e492] [cursor=pointer]:
+                    - img [ref=e497] [cursor=pointer]
+                    - generic [ref=e498] [cursor=pointer]:
+                      - heading [level=6] [ref=e499] [cursor=pointer]:
+                        - text: Firstk Playwright
+                        - generic [ref=e500] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e502] [cursor=pointer]:
+                        - generic [ref=e503] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e504] [cursor=pointer]: 03-06-2010
+                - cell [ref=e505] [cursor=pointer]:
+                  - generic [ref=e506] [cursor=pointer]: M6SA3T121968
+                - cell [ref=e507] [cursor=pointer]:
+                  - generic [ref=e509] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e510] [cursor=pointer]:
+                  - generic [ref=e511] [cursor=pointer]:
+                    - generic [ref=e514] [cursor=pointer]: RW
+                    - generic [ref=e515] [cursor=pointer]:
+                      - paragraph [ref=e516] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e517] [cursor=pointer]: "Created on: 10-09-2025 08:16 AM"
+                - cell [ref=e518] [cursor=pointer]:
+                  - generic [ref=e520] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e521] [cursor=pointer]:
+                    - button [ref=e523] [cursor=pointer]:
+                      - img [ref=e525] [cursor=pointer]
+                    - button [ref=e528] [cursor=pointer]:
+                      - img [ref=e530] [cursor=pointer]
+                    - button [ref=e535] [cursor=pointer]:
+                      - img [ref=e537] [cursor=pointer]
+                    - button [ref=e541] [cursor=pointer]:
+                      - img [ref=e543] [cursor=pointer]
+                    - button [ref=e547] [cursor=pointer]:
+                      - img [ref=e549] [cursor=pointer]
+              - button [ref=e552] [cursor=pointer]:
+                - cell [ref=e553] [cursor=pointer]:
+                  - generic [ref=e554] [cursor=pointer]:
+                    - img [ref=e559] [cursor=pointer]
+                    - generic [ref=e560] [cursor=pointer]:
+                      - heading [level=6] [ref=e561] [cursor=pointer]:
+                        - text: Firstv Playwright
+                        - generic [ref=e562] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e564] [cursor=pointer]:
+                        - generic [ref=e565] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e566] [cursor=pointer]: 03-06-2010
+                - cell [ref=e567] [cursor=pointer]:
+                  - generic [ref=e568] [cursor=pointer]: M6SA3T121967
+                - cell [ref=e569] [cursor=pointer]:
+                  - generic [ref=e571] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e572] [cursor=pointer]:
+                  - generic [ref=e573] [cursor=pointer]:
+                    - generic [ref=e576] [cursor=pointer]: RW
+                    - generic [ref=e577] [cursor=pointer]:
+                      - paragraph [ref=e578] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e579] [cursor=pointer]: "Created on: 10-09-2025 08:04 AM"
+                - cell [ref=e580] [cursor=pointer]:
+                  - generic [ref=e582] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e583] [cursor=pointer]:
+                    - button [ref=e585] [cursor=pointer]:
+                      - img [ref=e587] [cursor=pointer]
+                    - button [ref=e590] [cursor=pointer]:
+                      - img [ref=e592] [cursor=pointer]
+                    - button [ref=e597] [cursor=pointer]:
+                      - img [ref=e599] [cursor=pointer]
+                    - button [ref=e603] [cursor=pointer]:
+                      - img [ref=e605] [cursor=pointer]
+                    - button [ref=e609] [cursor=pointer]:
+                      - img [ref=e611] [cursor=pointer]
+              - button [ref=e614] [cursor=pointer]:
+                - cell [ref=e615] [cursor=pointer]:
+                  - generic [ref=e616] [cursor=pointer]:
+                    - img [ref=e621] [cursor=pointer]
+                    - generic [ref=e622] [cursor=pointer]:
+                      - heading [level=6] [ref=e623] [cursor=pointer]:
+                        - text: Firstv Playwright
+                        - generic [ref=e624] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e626] [cursor=pointer]:
+                        - generic [ref=e627] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e628] [cursor=pointer]: 03-06-2010
+                - cell [ref=e629] [cursor=pointer]:
+                  - generic [ref=e630] [cursor=pointer]: M6SA3T121966
+                - cell [ref=e631] [cursor=pointer]:
+                  - generic [ref=e633] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e634] [cursor=pointer]:
+                  - generic [ref=e635] [cursor=pointer]:
+                    - generic [ref=e638] [cursor=pointer]: RW
+                    - generic [ref=e639] [cursor=pointer]:
+                      - paragraph [ref=e640] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e641] [cursor=pointer]: "Created on: 10-09-2025 08:00 AM"
+                - cell [ref=e642] [cursor=pointer]:
+                  - generic [ref=e644] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e645] [cursor=pointer]:
+                    - button [ref=e647] [cursor=pointer]:
+                      - img [ref=e649] [cursor=pointer]
+                    - button [ref=e652] [cursor=pointer]:
+                      - img [ref=e654] [cursor=pointer]
+                    - button [ref=e659] [cursor=pointer]:
+                      - img [ref=e661] [cursor=pointer]
+                    - button [ref=e665] [cursor=pointer]:
+                      - img [ref=e667] [cursor=pointer]
+                    - button [ref=e671] [cursor=pointer]:
+                      - img [ref=e673] [cursor=pointer]
+              - button [ref=e676] [cursor=pointer]:
+                - cell [ref=e677] [cursor=pointer]:
+                  - generic [ref=e678] [cursor=pointer]:
+                    - img [ref=e683] [cursor=pointer]
+                    - generic [ref=e684] [cursor=pointer]:
+                      - heading [level=6] [ref=e685] [cursor=pointer]:
+                        - text: Firstv Playwright
+                        - generic [ref=e686] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e688] [cursor=pointer]:
+                        - generic [ref=e689] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e690] [cursor=pointer]: 03-06-2010
+                - cell [ref=e691] [cursor=pointer]:
+                  - generic [ref=e692] [cursor=pointer]: M6SA3T121965
+                - cell [ref=e693] [cursor=pointer]:
+                  - generic [ref=e695] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e696] [cursor=pointer]:
+                  - generic [ref=e697] [cursor=pointer]:
+                    - generic [ref=e700] [cursor=pointer]: RW
+                    - generic [ref=e701] [cursor=pointer]:
+                      - paragraph [ref=e702] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e703] [cursor=pointer]: "Created on: 10-09-2025 07:59 AM"
+                - cell [ref=e704] [cursor=pointer]:
+                  - generic [ref=e706] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e707] [cursor=pointer]:
+                    - button [ref=e709] [cursor=pointer]:
+                      - img [ref=e711] [cursor=pointer]
+                    - button [ref=e714] [cursor=pointer]:
+                      - img [ref=e716] [cursor=pointer]
+                    - button [ref=e721] [cursor=pointer]:
+                      - img [ref=e723] [cursor=pointer]
+                    - button [ref=e727] [cursor=pointer]:
+                      - img [ref=e729] [cursor=pointer]
+                    - button [ref=e733] [cursor=pointer]:
+                      - img [ref=e735] [cursor=pointer]
+              - button [ref=e738] [cursor=pointer]:
+                - cell [ref=e739] [cursor=pointer]:
+                  - generic [ref=e740] [cursor=pointer]:
+                    - img [ref=e745] [cursor=pointer]
+                    - generic [ref=e746] [cursor=pointer]:
+                      - heading [level=6] [ref=e747] [cursor=pointer]:
+                        - text: Firstv Playwright
+                        - generic [ref=e748] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e750] [cursor=pointer]:
+                        - generic [ref=e751] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e752] [cursor=pointer]: 03-06-2010
+                - cell [ref=e753] [cursor=pointer]:
+                  - generic [ref=e754] [cursor=pointer]: M6SA3T121964
+                - cell [ref=e755] [cursor=pointer]:
+                  - generic [ref=e757] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e758] [cursor=pointer]:
+                  - generic [ref=e759] [cursor=pointer]:
+                    - generic [ref=e762] [cursor=pointer]: RW
+                    - generic [ref=e763] [cursor=pointer]:
+                      - paragraph [ref=e764] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e765] [cursor=pointer]: "Created on: 10-09-2025 07:54 AM"
+                - cell [ref=e766] [cursor=pointer]:
+                  - generic [ref=e768] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e769] [cursor=pointer]:
+                    - button [ref=e771] [cursor=pointer]:
+                      - img [ref=e773] [cursor=pointer]
+                    - button [ref=e776] [cursor=pointer]:
+                      - img [ref=e778] [cursor=pointer]
+                    - button [ref=e783] [cursor=pointer]:
+                      - img [ref=e785] [cursor=pointer]
+                    - button [ref=e789] [cursor=pointer]:
+                      - img [ref=e791] [cursor=pointer]
+                    - button [ref=e795] [cursor=pointer]:
+                      - img [ref=e797] [cursor=pointer]
+              - button [ref=e800] [cursor=pointer]:
+                - cell [ref=e801] [cursor=pointer]:
+                  - generic [ref=e802] [cursor=pointer]:
+                    - img [ref=e807] [cursor=pointer]
+                    - generic [ref=e808] [cursor=pointer]:
+                      - heading [level=6] [ref=e809] [cursor=pointer]:
+                        - text: Firstv Playwright
+                        - generic [ref=e810] [cursor=pointer]: 15Y | Male
+                      - paragraph [ref=e812] [cursor=pointer]:
+                        - generic [ref=e813] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e814] [cursor=pointer]: 03-06-2010
+                - cell [ref=e815] [cursor=pointer]:
+                  - generic [ref=e816] [cursor=pointer]: M6SA3T121962
+                - cell [ref=e817] [cursor=pointer]:
+                  - generic [ref=e819] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e820] [cursor=pointer]:
+                  - generic [ref=e821] [cursor=pointer]:
+                    - generic [ref=e824] [cursor=pointer]: RW
+                    - generic [ref=e825] [cursor=pointer]:
+                      - paragraph [ref=e826] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e827] [cursor=pointer]: "Created on: 10-09-2025 07:43 AM"
+                - cell [ref=e828] [cursor=pointer]:
+                  - generic [ref=e830] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e831] [cursor=pointer]:
+                    - button [ref=e833] [cursor=pointer]:
+                      - img [ref=e835] [cursor=pointer]
+                    - button [ref=e838] [cursor=pointer]:
+                      - img [ref=e840] [cursor=pointer]
+                    - button [ref=e845] [cursor=pointer]:
+                      - img [ref=e847] [cursor=pointer]
+                    - button [ref=e851] [cursor=pointer]:
+                      - img [ref=e853] [cursor=pointer]
+                    - button [ref=e857] [cursor=pointer]:
+                      - img [ref=e859] [cursor=pointer]
+              - button [ref=e862] [cursor=pointer]:
+                - cell [ref=e863] [cursor=pointer]:
+                  - generic [ref=e864] [cursor=pointer]:
+                    - img [ref=e869] [cursor=pointer]
+                    - generic [ref=e870] [cursor=pointer]:
+                      - heading [level=6] [ref=e871] [cursor=pointer]:
+                        - text: So A
+                        - generic [ref=e872] [cursor=pointer]: 19Y | Male
+                      - paragraph [ref=e874] [cursor=pointer]:
+                        - generic [ref=e875] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e876] [cursor=pointer]: 06-06-2006
+                - cell [ref=e877] [cursor=pointer]:
+                  - generic [ref=e878] [cursor=pointer]: M6SA3T121961
+                - cell [ref=e879] [cursor=pointer]:
+                  - button [ref=e881] [cursor=pointer]: Add Insurance
+                - cell [ref=e882] [cursor=pointer]:
+                  - generic [ref=e883] [cursor=pointer]:
+                    - generic [ref=e886] [cursor=pointer]: RW
+                    - generic [ref=e887] [cursor=pointer]:
+                      - paragraph [ref=e888] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e889] [cursor=pointer]: "Created on: 10-09-2025 06:44 AM"
+                - cell [ref=e890] [cursor=pointer]:
+                  - generic [ref=e892] [cursor=pointer]: +1 (454) 654-6546
+                  - generic [ref=e893] [cursor=pointer]:
+                    - button [ref=e895] [cursor=pointer]:
+                      - img [ref=e897] [cursor=pointer]
+                    - button [ref=e900] [cursor=pointer]:
+                      - img [ref=e902] [cursor=pointer]
+                    - button [ref=e907] [cursor=pointer]:
+                      - img [ref=e909] [cursor=pointer]
+                    - button [ref=e913] [cursor=pointer]:
+                      - img [ref=e915] [cursor=pointer]
+                    - button [ref=e919] [cursor=pointer]:
+                      - img [ref=e921] [cursor=pointer]
+              - button [ref=e924] [cursor=pointer]:
+                - cell [ref=e925] [cursor=pointer]:
+                  - generic [ref=e926] [cursor=pointer]:
+                    - img [ref=e931] [cursor=pointer]
+                    - generic [ref=e932] [cursor=pointer]:
+                      - heading [level=6] [ref=e933] [cursor=pointer]:
+                        - text: Firsta Playwright
+                        - generic [ref=e934] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e936] [cursor=pointer]:
+                        - generic [ref=e937] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e938] [cursor=pointer]: 03-06-2000
+                - cell [ref=e939] [cursor=pointer]:
+                  - generic [ref=e940] [cursor=pointer]: M6SA3T121957
+                - cell [ref=e941] [cursor=pointer]:
+                  - generic [ref=e943] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e944] [cursor=pointer]:
+                  - generic [ref=e945] [cursor=pointer]:
+                    - generic [ref=e948] [cursor=pointer]: RW
+                    - generic [ref=e949] [cursor=pointer]:
+                      - paragraph [ref=e950] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e951] [cursor=pointer]: "Created on: 10-09-2025 05:52 AM"
+                - cell [ref=e952] [cursor=pointer]:
+                  - generic [ref=e954] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e955] [cursor=pointer]:
+                    - button [ref=e957] [cursor=pointer]:
+                      - img [ref=e959] [cursor=pointer]
+                    - button [ref=e962] [cursor=pointer]:
+                      - img [ref=e964] [cursor=pointer]
+                    - button [ref=e969] [cursor=pointer]:
+                      - img [ref=e971] [cursor=pointer]
+                    - button [ref=e975] [cursor=pointer]:
+                      - img [ref=e977] [cursor=pointer]
+                    - button [ref=e981] [cursor=pointer]:
+                      - img [ref=e983] [cursor=pointer]
+              - button [ref=e986] [cursor=pointer]:
+                - cell [ref=e987] [cursor=pointer]:
+                  - generic [ref=e988] [cursor=pointer]:
+                    - img [ref=e993] [cursor=pointer]
+                    - generic [ref=e994] [cursor=pointer]:
+                      - heading [level=6] [ref=e995] [cursor=pointer]:
+                        - text: Firsta Playwright
+                        - generic [ref=e996] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e998] [cursor=pointer]:
+                        - generic [ref=e999] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1000] [cursor=pointer]: 03-06-2000
+                - cell [ref=e1001] [cursor=pointer]:
+                  - generic [ref=e1002] [cursor=pointer]: M6SA3T121956
+                - cell [ref=e1003] [cursor=pointer]:
+                  - generic [ref=e1005] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1006] [cursor=pointer]:
+                  - generic [ref=e1007] [cursor=pointer]:
+                    - generic [ref=e1010] [cursor=pointer]: RW
+                    - generic [ref=e1011] [cursor=pointer]:
+                      - paragraph [ref=e1012] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1013] [cursor=pointer]: "Created on: 10-09-2025 05:49 AM"
+                - cell [ref=e1014] [cursor=pointer]:
+                  - generic [ref=e1016] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1017] [cursor=pointer]:
+                    - button [ref=e1019] [cursor=pointer]:
+                      - img [ref=e1021] [cursor=pointer]
+                    - button [ref=e1024] [cursor=pointer]:
+                      - img [ref=e1026] [cursor=pointer]
+                    - button [ref=e1031] [cursor=pointer]:
+                      - img [ref=e1033] [cursor=pointer]
+                    - button [ref=e1037] [cursor=pointer]:
+                      - img [ref=e1039] [cursor=pointer]
+                    - button [ref=e1043] [cursor=pointer]:
+                      - img [ref=e1045] [cursor=pointer]
+              - button [ref=e1048] [cursor=pointer]:
+                - cell [ref=e1049] [cursor=pointer]:
+                  - generic [ref=e1050] [cursor=pointer]:
+                    - img [ref=e1055] [cursor=pointer]
+                    - generic [ref=e1056] [cursor=pointer]:
+                      - heading [level=6] [ref=e1057] [cursor=pointer]:
+                        - text: Firstd Playwright
+                        - generic [ref=e1058] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1060] [cursor=pointer]:
+                        - generic [ref=e1061] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1062] [cursor=pointer]: 07-06-2000
+                - cell [ref=e1063] [cursor=pointer]:
+                  - generic [ref=e1064] [cursor=pointer]: M6SA3T121949
+                - cell [ref=e1065] [cursor=pointer]:
+                  - generic [ref=e1067] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1068] [cursor=pointer]:
+                  - generic [ref=e1069] [cursor=pointer]:
+                    - generic [ref=e1072] [cursor=pointer]: RW
+                    - generic [ref=e1073] [cursor=pointer]:
+                      - paragraph [ref=e1074] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1075] [cursor=pointer]: "Created on: 10-09-2025 05:03 AM"
+                - cell [ref=e1076] [cursor=pointer]:
+                  - generic [ref=e1078] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1079] [cursor=pointer]:
+                    - button [ref=e1081] [cursor=pointer]:
+                      - img [ref=e1083] [cursor=pointer]
+                    - button [ref=e1086] [cursor=pointer]:
+                      - img [ref=e1088] [cursor=pointer]
+                    - button [ref=e1093] [cursor=pointer]:
+                      - img [ref=e1095] [cursor=pointer]
+                    - button [ref=e1099] [cursor=pointer]:
+                      - img [ref=e1101] [cursor=pointer]
+                    - button [ref=e1105] [cursor=pointer]:
+                      - img [ref=e1107] [cursor=pointer]
+              - button [ref=e1110] [cursor=pointer]:
+                - cell [ref=e1111] [cursor=pointer]:
+                  - generic [ref=e1112] [cursor=pointer]:
+                    - img [ref=e1117] [cursor=pointer]
+                    - generic [ref=e1118] [cursor=pointer]:
+                      - heading [level=6] [ref=e1119] [cursor=pointer]:
+                        - text: Firstd Playwright
+                        - generic [ref=e1120] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1122] [cursor=pointer]:
+                        - generic [ref=e1123] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1124] [cursor=pointer]: 07-06-2000
+                - cell [ref=e1125] [cursor=pointer]:
+                  - generic [ref=e1126] [cursor=pointer]: M6SA3T121948
+                - cell [ref=e1127] [cursor=pointer]:
+                  - generic [ref=e1129] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1130] [cursor=pointer]:
+                  - generic [ref=e1131] [cursor=pointer]:
+                    - generic [ref=e1134] [cursor=pointer]: RW
+                    - generic [ref=e1135] [cursor=pointer]:
+                      - paragraph [ref=e1136] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1137] [cursor=pointer]: "Created on: 10-09-2025 05:02 AM"
+                - cell [ref=e1138] [cursor=pointer]:
+                  - generic [ref=e1140] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1141] [cursor=pointer]:
+                    - button [ref=e1143] [cursor=pointer]:
+                      - img [ref=e1145] [cursor=pointer]
+                    - button [ref=e1148] [cursor=pointer]:
+                      - img [ref=e1150] [cursor=pointer]
+                    - button [ref=e1155] [cursor=pointer]:
+                      - img [ref=e1157] [cursor=pointer]
+                    - button [ref=e1161] [cursor=pointer]:
+                      - img [ref=e1163] [cursor=pointer]
+                    - button [ref=e1167] [cursor=pointer]:
+                      - img [ref=e1169] [cursor=pointer]
+              - button [ref=e1172] [cursor=pointer]:
+                - cell [ref=e1173] [cursor=pointer]:
+                  - generic [ref=e1174] [cursor=pointer]:
+                    - img [ref=e1179] [cursor=pointer]
+                    - generic [ref=e1180] [cursor=pointer]:
+                      - heading [level=6] [ref=e1181] [cursor=pointer]:
+                        - text: Firstd Playwright
+                        - generic [ref=e1182] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1184] [cursor=pointer]:
+                        - generic [ref=e1185] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1186] [cursor=pointer]: 07-06-2000
+                - cell [ref=e1187] [cursor=pointer]:
+                  - generic [ref=e1188] [cursor=pointer]: M6SA3T121944
+                - cell [ref=e1189] [cursor=pointer]:
+                  - generic [ref=e1191] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1192] [cursor=pointer]:
+                  - generic [ref=e1193] [cursor=pointer]:
+                    - generic [ref=e1196] [cursor=pointer]: RW
+                    - generic [ref=e1197] [cursor=pointer]:
+                      - paragraph [ref=e1198] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1199] [cursor=pointer]: "Created on: 10-09-2025 03:14 AM"
+                - cell [ref=e1200] [cursor=pointer]:
+                  - generic [ref=e1202] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1203] [cursor=pointer]:
+                    - button [ref=e1205] [cursor=pointer]:
+                      - img [ref=e1207] [cursor=pointer]
+                    - button [ref=e1210] [cursor=pointer]:
+                      - img [ref=e1212] [cursor=pointer]
+                    - button [ref=e1217] [cursor=pointer]:
+                      - img [ref=e1219] [cursor=pointer]
+                    - button [ref=e1223] [cursor=pointer]:
+                      - img [ref=e1225] [cursor=pointer]
+                    - button [ref=e1229] [cursor=pointer]:
+                      - img [ref=e1231] [cursor=pointer]
+              - button [ref=e1234] [cursor=pointer]:
+                - cell [ref=e1235] [cursor=pointer]:
+                  - generic [ref=e1236] [cursor=pointer]:
+                    - img [ref=e1241] [cursor=pointer]
+                    - generic [ref=e1242] [cursor=pointer]:
+                      - heading [level=6] [ref=e1243] [cursor=pointer]:
+                        - text: Firstd Playwright
+                        - generic [ref=e1244] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1246] [cursor=pointer]:
+                        - generic [ref=e1247] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1248] [cursor=pointer]: 07-06-2000
+                - cell [ref=e1249] [cursor=pointer]:
+                  - generic [ref=e1250] [cursor=pointer]: M6SA3T121943
+                - cell [ref=e1251] [cursor=pointer]:
+                  - generic [ref=e1253] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1254] [cursor=pointer]:
+                  - generic [ref=e1255] [cursor=pointer]:
+                    - generic [ref=e1258] [cursor=pointer]: RW
+                    - generic [ref=e1259] [cursor=pointer]:
+                      - paragraph [ref=e1260] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1261] [cursor=pointer]: "Created on: 10-09-2025 03:12 AM"
+                - cell [ref=e1262] [cursor=pointer]:
+                  - generic [ref=e1264] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1265] [cursor=pointer]:
+                    - button [ref=e1267] [cursor=pointer]:
+                      - img [ref=e1269] [cursor=pointer]
+                    - button [ref=e1272] [cursor=pointer]:
+                      - img [ref=e1274] [cursor=pointer]
+                    - button [ref=e1279] [cursor=pointer]:
+                      - img [ref=e1281] [cursor=pointer]
+                    - button [ref=e1285] [cursor=pointer]:
+                      - img [ref=e1287] [cursor=pointer]
+                    - button [ref=e1291] [cursor=pointer]:
+                      - img [ref=e1293] [cursor=pointer]
+              - button [ref=e1296] [cursor=pointer]:
+                - cell [ref=e1297] [cursor=pointer]:
+                  - generic [ref=e1298] [cursor=pointer]:
+                    - img [ref=e1303] [cursor=pointer]
+                    - generic [ref=e1304] [cursor=pointer]:
+                      - heading [level=6] [ref=e1305] [cursor=pointer]:
+                        - text: First Playwright
+                        - generic [ref=e1306] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1308] [cursor=pointer]:
+                        - generic [ref=e1309] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1310] [cursor=pointer]: 05-05-2000
+                - cell [ref=e1311] [cursor=pointer]:
+                  - generic [ref=e1312] [cursor=pointer]: M6SA3T121942
+                - cell [ref=e1313] [cursor=pointer]:
+                  - generic [ref=e1315] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1316] [cursor=pointer]:
+                  - generic [ref=e1317] [cursor=pointer]:
+                    - generic [ref=e1320] [cursor=pointer]: RW
+                    - generic [ref=e1321] [cursor=pointer]:
+                      - paragraph [ref=e1322] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1323] [cursor=pointer]: "Created on: 10-09-2025 03:10 AM"
+                - cell [ref=e1324] [cursor=pointer]:
+                  - generic [ref=e1326] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1327] [cursor=pointer]:
+                    - button [ref=e1329] [cursor=pointer]:
+                      - img [ref=e1331] [cursor=pointer]
+                    - button [ref=e1334] [cursor=pointer]:
+                      - img [ref=e1336] [cursor=pointer]
+                    - button [ref=e1341] [cursor=pointer]:
+                      - img [ref=e1343] [cursor=pointer]
+                    - button [ref=e1347] [cursor=pointer]:
+                      - img [ref=e1349] [cursor=pointer]
+                    - button [ref=e1353] [cursor=pointer]:
+                      - img [ref=e1355] [cursor=pointer]
+              - button [ref=e1358] [cursor=pointer]:
+                - cell [ref=e1359] [cursor=pointer]:
+                  - generic [ref=e1360] [cursor=pointer]:
+                    - img [ref=e1365] [cursor=pointer]
+                    - generic [ref=e1366] [cursor=pointer]:
+                      - heading [level=6] [ref=e1367] [cursor=pointer]:
+                        - text: First Playwright
+                        - generic [ref=e1368] [cursor=pointer]: 25Y | Male
+                      - paragraph [ref=e1370] [cursor=pointer]:
+                        - generic [ref=e1371] [cursor=pointer]:
+                          - text: "DOB:"
+                          - generic [ref=e1372] [cursor=pointer]: 05-05-2000
+                - cell [ref=e1373] [cursor=pointer]:
+                  - generic [ref=e1374] [cursor=pointer]: M6SA3T121941
+                - cell [ref=e1375] [cursor=pointer]:
+                  - generic [ref=e1377] [cursor=pointer]: AETNA PLUS
+                - cell [ref=e1378] [cursor=pointer]:
+                  - generic [ref=e1379] [cursor=pointer]:
+                    - generic [ref=e1382] [cursor=pointer]: RW
+                    - generic [ref=e1383] [cursor=pointer]:
+                      - paragraph [ref=e1384] [cursor=pointer]: Robert WilliamsThree
+                      - paragraph [ref=e1385] [cursor=pointer]: "Created on: 10-09-2025 03:08 AM"
+                - cell [ref=e1386] [cursor=pointer]:
+                  - generic [ref=e1388] [cursor=pointer]: +1 (222) 222-2222
+                  - generic [ref=e1389] [cursor=pointer]:
+                    - button [ref=e1391] [cursor=pointer]:
+                      - img [ref=e1393] [cursor=pointer]
+                    - button [ref=e1396] [cursor=pointer]:
+                      - img [ref=e1398] [cursor=pointer]
+                    - button [ref=e1403] [cursor=pointer]:
+                      - img [ref=e1405] [cursor=pointer]
+                    - button [ref=e1409] [cursor=pointer]:
+                      - img [ref=e1411] [cursor=pointer]
+                    - button [ref=e1415] [cursor=pointer]:
+                      - img [ref=e1417] [cursor=pointer]
+    - dialog [ref=e1425]:
+      - complementary [ref=e1428]:
+        - dialog [ref=e1431]:
+          - generic [ref=e1432]:
+            - generic [ref=e1433]:
+              - generic [ref=e1434]:
+                - heading [level=6] [ref=e1435]: Quick Registration
+                - generic [ref=e1436]: "MRN : M6SA3T121977"
+              - button [ref=e1438] [cursor=pointer]:
+                - generic:
+                  - img
+            - generic [ref=e1441]:
+              - generic [ref=e1442]:
+                - generic [ref=e1443]:
+                  - generic [ref=e1444]:
+                    - generic [ref=e1445]: First Name *
+                    - textbox [ref=e1447]: Second
+                  - generic [ref=e1448]:
+                    - generic [ref=e1449]: Last Name *
+                    - textbox [ref=e1451]: playwright
+                - generic [ref=e1452]:
+                  - generic [ref=e1453]:
+                    - generic [ref=e1455]: Date of Birth *
+                    - textbox [ref=e1457]: 2010-03-06
+                  - generic [ref=e1458]:
+                    - generic [ref=e1460]: Sex at Birth *
+                    - combobox [ref=e1462]
+                - generic [ref=e1463]:
+                  - generic [ref=e1464]:
+                    - generic [ref=e1466]: Mobile Phone *
+                    - textbox [ref=e1468]: (222)222-2222
+                  - generic [ref=e1469]:
+                    - generic [ref=e1471]:
+                      - generic [ref=e1472]: Email
+                      - paragraph [ref=e1473]: Required for patient-portal access
+                    - textbox [ref=e1475]: sksusari@edvak.com
+                - generic [ref=e1476]:
+                  - generic [ref=e1477]:
+                    - generic [ref=e1478]:
+                      - generic [ref=e1480]: Address Line 1 *
+                      - textbox [ref=e1482]: "450"
+                    - generic [ref=e1483]:
+                      - generic [ref=e1485]: Address Line 2
+                      - textbox [ref=e1487]
+                  - generic [ref=e1488]:
+                    - generic [ref=e1489]:
+                      - generic [ref=e1491]: City *
+                      - generic [ref=e1495]:
+                        - textbox [ref=e1496]: new
+                        - generic [ref=e1497]:
+                          - generic [ref=e1498] [cursor=pointer]: Newtonville
+                          - generic [ref=e1499] [cursor=pointer]: New Town
+                          - generic [ref=e1500] [cursor=pointer]: New Salem
+                          - generic [ref=e1501] [cursor=pointer]: New Braintree
+                          - generic [ref=e1502] [cursor=pointer]: Newburyport
+                          - generic [ref=e1503] [cursor=pointer]: Newbury
+                          - generic [ref=e1504] [cursor=pointer]: Newton
+                          - generic [ref=e1505] [cursor=pointer]: Newton Center
+                          - generic [ref=e1506] [cursor=pointer]: Newton Highlands
+                          - generic [ref=e1507] [cursor=pointer]: Newton Upper Falls
+                          - generic [ref=e1508] [cursor=pointer]: Newport
+                          - generic [ref=e1509] [cursor=pointer]: New Boston
+                          - generic [ref=e1510] [cursor=pointer]: Newmarket
+                          - generic [ref=e1511] [cursor=pointer]: New Durham
+                          - generic [ref=e1512] [cursor=pointer]: Newfields
+                          - generic [ref=e1513] [cursor=pointer]: New London
+                          - generic [ref=e1514] [cursor=pointer]: New Castle
+                          - generic [ref=e1515] [cursor=pointer]: Newton Lower Falls
+                          - generic [ref=e1516] [cursor=pointer]: New Bedford
+                          - generic [ref=e1517] [cursor=pointer]: New Ipswich
+                          - generic [ref=e1518] [cursor=pointer]: New Hampton
+                          - generic [ref=e1519] [cursor=pointer]: Newton Junction
+                          - generic [ref=e1520] [cursor=pointer]: Newfield
+                          - generic [ref=e1521] [cursor=pointer]: New Vineyard
+                          - generic [ref=e1522] [cursor=pointer]: New Limerick
+                          - generic [ref=e1523] [cursor=pointer]: New Sharon
+                          - generic [ref=e1524] [cursor=pointer]: New Gloucester
+                          - generic [ref=e1525] [cursor=pointer]: Newry
+                          - generic [ref=e1526] [cursor=pointer]: Newcastle
+                          - generic [ref=e1527] [cursor=pointer]: New Harbor
+                          - generic [ref=e1528] [cursor=pointer]: New Portland
+                          - generic [ref=e1529] [cursor=pointer]: New Sweden
+                          - generic [ref=e1530] [cursor=pointer]: Newfane
+                          - generic [ref=e1531] [cursor=pointer]: New Hartford
+                          - generic [ref=e1532] [cursor=pointer]: Newington
+                          - generic [ref=e1533] [cursor=pointer]: New Haven
+                          - generic [ref=e1534] [cursor=pointer]: New Canaan
+                          - generic [ref=e1535] [cursor=pointer]: Newtown
+                          - generic [ref=e1536] [cursor=pointer]: New Fairfield
+                          - generic [ref=e1537] [cursor=pointer]: Newport Center
+                          - generic [ref=e1538] [cursor=pointer]: New Britain
+                          - generic [ref=e1539] [cursor=pointer]: New Milford
+                          - generic [ref=e1540] [cursor=pointer]: New Preston Marble Dale
+                          - generic [ref=e1541] [cursor=pointer]: Newark
+                          - generic [ref=e1542] [cursor=pointer]: New Providence
+                          - generic [ref=e1543] [cursor=pointer]: New Vernon
+                          - generic [ref=e1544] [cursor=pointer]: New Lisbon
+                          - generic [ref=e1545] [cursor=pointer]: New Gretna
+                          - generic [ref=e1546] [cursor=pointer]: Newfoundland
+                          - generic [ref=e1547] [cursor=pointer]: New Egypt
+                          - generic [ref=e1548] [cursor=pointer]: New Brunswick
+                          - generic [ref=e1549] [cursor=pointer]: New City
+                          - generic [ref=e1550] [cursor=pointer]: New Suffolk
+                          - generic [ref=e1551] [cursor=pointer]: New Baltimore
+                          - generic [ref=e1552] [cursor=pointer]: New Lebanon
+                          - generic [ref=e1553] [cursor=pointer]: New York
+                          - generic [ref=e1554] [cursor=pointer]: New Rochelle
+                          - generic [ref=e1555] [cursor=pointer]: New Hyde Park
+                          - generic [ref=e1556] [cursor=pointer]: New Windsor
+                          - generic [ref=e1557] [cursor=pointer]: Newburgh
+                          - generic [ref=e1558] [cursor=pointer]: New Woodstock
+                          - generic [ref=e1559] [cursor=pointer]: New York Mills
+                          - generic [ref=e1560] [cursor=pointer]: Newton Falls
+                          - generic [ref=e1561] [cursor=pointer]: New Kingston
+                          - generic [ref=e1562] [cursor=pointer]: New Paltz
+                          - generic [ref=e1563] [cursor=pointer]: Newcomb
+                          - generic [ref=e1564] [cursor=pointer]: New Russia
+                          - generic [ref=e1565] [cursor=pointer]: New Berlin
+                          - generic [ref=e1566] [cursor=pointer]: Newark Valley
+                          - generic [ref=e1567] [cursor=pointer]: Newell
+                          - generic [ref=e1568] [cursor=pointer]: New Geneva
+                          - generic [ref=e1569] [cursor=pointer]: New Paris
+                          - generic [ref=e1570] [cursor=pointer]: New Freeport
+                          - generic [ref=e1571] [cursor=pointer]: New Derry
+                          - generic [ref=e1572] [cursor=pointer]: New Stanton
+                          - generic [ref=e1573] [cursor=pointer]: New Florence
+                          - generic [ref=e1574] [cursor=pointer]: New Wilmington
+                          - generic [ref=e1575] [cursor=pointer]: New Bethlehem
+                          - generic [ref=e1576] [cursor=pointer]: New Millport
+                          - generic [ref=e1577] [cursor=pointer]: New Kensington
+                          - generic [ref=e1578] [cursor=pointer]: New Brighton
+                          - generic [ref=e1579] [cursor=pointer]: New Eagle
+                          - generic [ref=e1580] [cursor=pointer]: New Alexandria
+                          - generic [ref=e1581] [cursor=pointer]: New Galilee
+                          - generic [ref=e1582] [cursor=pointer]: New Enterprise
+                          - generic [ref=e1583] [cursor=pointer]: New Buffalo
+                          - generic [ref=e1584] [cursor=pointer]: New Cumberland
+                          - generic [ref=e1585] [cursor=pointer]: New Park
+                          - generic [ref=e1586] [cursor=pointer]: New Kingstown
+                          - generic [ref=e1587] [cursor=pointer]: Newmanstown
+                          - generic [ref=e1588] [cursor=pointer]: Newburg
+                          - generic [ref=e1589] [cursor=pointer]: New Ringgold
+                          - generic [ref=e1590] [cursor=pointer]: New Hope
+                          - generic [ref=e1591] [cursor=pointer]: New Bloomfield
+                          - generic [ref=e1592] [cursor=pointer]: Newville
+                          - generic [ref=e1593] [cursor=pointer]: New Holland
+                          - generic [ref=e1594] [cursor=pointer]: New Germantown
+                          - generic [ref=e1595] [cursor=pointer]: Newton Hamilton
+                          - generic [ref=e1596] [cursor=pointer]: New Freedom
+                          - generic [ref=e1597] [cursor=pointer]: New Oxford
+                          - generic [ref=e1598] [cursor=pointer]: New Columbia
+                          - generic [ref=e1599] [cursor=pointer]: New Philadelphia
+                          - generic [ref=e1600] [cursor=pointer]: New Tripoli
+                          - generic [ref=e1601] [cursor=pointer]: New Albany
+                          - generic [ref=e1602] [cursor=pointer]: Newtown Square
+                          - generic [ref=e1603] [cursor=pointer]: New Berlinville
+                          - generic [ref=e1604] [cursor=pointer]: New Midway
+                          - generic [ref=e1605] [cursor=pointer]: New Market
+                          - generic [ref=e1606] [cursor=pointer]: New Point
+                          - generic [ref=e1607] [cursor=pointer]: Newsoms
+                          - generic [ref=e1608] [cursor=pointer]: New Kent
+                          - generic [ref=e1609] [cursor=pointer]: New Canton
+                          - generic [ref=e1610] [cursor=pointer]: New Church
+                          - generic [ref=e1611] [cursor=pointer]: Newport News
+                          - generic [ref=e1612] [cursor=pointer]: Newhall
+                          - generic [ref=e1613] [cursor=pointer]: Newbern
+                          - generic [ref=e1614] [cursor=pointer]: New Richmond
+                          - generic [ref=e1615] [cursor=pointer]: New River
+                          - generic [ref=e1616] [cursor=pointer]: New Milton
+                          - generic [ref=e1617] [cursor=pointer]: New Manchester
+                          - generic [ref=e1618] [cursor=pointer]: New Creek
+                          - generic [ref=e1619] [cursor=pointer]: New Martinsville
+                          - generic [ref=e1620] [cursor=pointer]: Newton Grove
+                          - generic [ref=e1621] [cursor=pointer]: New Bern
+                          - generic [ref=e1622] [cursor=pointer]: Newberry
+                          - generic [ref=e1623] [cursor=pointer]: New Hill
+                          - generic [ref=e1624] [cursor=pointer]: Newland
+                          - generic [ref=e1625] [cursor=pointer]: New Zion
+                          - generic [ref=e1626] [cursor=pointer]: New Ellenton
+                          - generic [ref=e1627] [cursor=pointer]: Newborn
+                          - generic [ref=e1628] [cursor=pointer]: Newnan
+                          - generic [ref=e1629] [cursor=pointer]: New Smyrna Beach
+                          - generic [ref=e1630] [cursor=pointer]: New Brockton
+                          - generic [ref=e1631] [cursor=pointer]: New Port Richey
+                          - generic [ref=e1632] [cursor=pointer]: New Johnsonville
+                          - generic [ref=e1633] [cursor=pointer]: New Tazewell
+                          - generic [ref=e1634] [cursor=pointer]: Newhebron
+                          - generic [ref=e1635] [cursor=pointer]: New Augusta
+                          - generic [ref=e1636] [cursor=pointer]: New Site
+                          - generic [ref=e1637] [cursor=pointer]: New Liberty
+                          - generic [ref=e1638] [cursor=pointer]: New Concord
+                          - generic [ref=e1639] [cursor=pointer]: New Straitsville
+                          - generic [ref=e1640] [cursor=pointer]: Newcomerstown
+                          - generic [ref=e1641] [cursor=pointer]: New Bloomington
+                          - generic [ref=e1642] [cursor=pointer]: New Bavaria
+                          - generic [ref=e1643] [cursor=pointer]: New Lexington
+                          - generic [ref=e1644] [cursor=pointer]: New Waterford
+                          - generic [ref=e1645] [cursor=pointer]: New Rumley
+                          - generic [ref=e1646] [cursor=pointer]: Newtonsville
+                          - generic [ref=e1647] [cursor=pointer]: New Vienna
+                          - generic [ref=e1648] [cursor=pointer]: New Weston
+                          - generic [ref=e1649] [cursor=pointer]: New Madison
+                          - generic [ref=e1650] [cursor=pointer]: New Riegel
+                          - generic [ref=e1651] [cursor=pointer]: New Athens
+                          - generic [ref=e1652] [cursor=pointer]: New Middletown
+                          - generic [ref=e1653] [cursor=pointer]: New Springfield
+                          - generic [ref=e1654] [cursor=pointer]: New Washington
+                          - generic [ref=e1655] [cursor=pointer]: New Carlisle
+                          - generic [ref=e1656] [cursor=pointer]: New Hampshire
+                          - generic [ref=e1657] [cursor=pointer]: New Knoxville
+                          - generic [ref=e1658] [cursor=pointer]: New Plymouth
+                          - generic [ref=e1659] [cursor=pointer]: New Marshfield
+                          - generic [ref=e1660] [cursor=pointer]: New Waverly
+                          - generic [ref=e1661] [cursor=pointer]: New Matamoras
+                          - generic [ref=e1662] [cursor=pointer]: New Bremen
+                          - generic [ref=e1663] [cursor=pointer]: New Palestine
+                          - generic [ref=e1664] [cursor=pointer]: New Salisbury
+                          - generic [ref=e1665] [cursor=pointer]: New Goshen
+                          - generic [ref=e1666] [cursor=pointer]: New Trenton
+                          - generic [ref=e1667] [cursor=pointer]: New Harmony
+                          - generic [ref=e1668] [cursor=pointer]: New Ross
+                          - generic [ref=e1669] [cursor=pointer]: New Hudson
+                          - generic [ref=e1670] [cursor=pointer]: New Lothrop
+                          - generic [ref=e1671] [cursor=pointer]: Newaygo
+                          - generic [ref=e1672] [cursor=pointer]: New Troy
+                          - generic [ref=e1673] [cursor=pointer]: New Era
+                          - generic [ref=e1674] [cursor=pointer]: New Virginia
+                          - generic [ref=e1675] [cursor=pointer]: New Albin
+                          - generic [ref=e1676] [cursor=pointer]: New Holstein
+                          - generic [ref=e1677] [cursor=pointer]: New Munster
+                          - generic [ref=e1678] [cursor=pointer]: New Glarus
+                          - generic [ref=e1679] [cursor=pointer]: New Auburn
+                          - generic [ref=e1680] [cursor=pointer]: New Franken
+                          - generic [ref=e1681] [cursor=pointer]: New Germany
+                          - generic [ref=e1682] [cursor=pointer]: New Prague
+                          - generic [ref=e1683] [cursor=pointer]: New Ulm
+                          - generic [ref=e1684] [cursor=pointer]: New Richland
+                          - generic [ref=e1685] [cursor=pointer]: Newfolden
+                          - generic [ref=e1686] [cursor=pointer]: New Munich
+                          - generic [ref=e1687] [cursor=pointer]: New Effington
+                          - generic [ref=e1688] [cursor=pointer]: New England
+                          - generic [ref=e1689] [cursor=pointer]: New Underwood
+                          - generic [ref=e1690] [cursor=pointer]: New Leipzig
+                          - generic [ref=e1691] [cursor=pointer]: New Rockford
+                          - generic [ref=e1692] [cursor=pointer]: New Lenox
+                          - generic [ref=e1693] [cursor=pointer]: Newman
+                          - generic [ref=e1694] [cursor=pointer]: New Memphis
+                          - generic [ref=e1695] [cursor=pointer]: New Baden
+                          - generic [ref=e1696] [cursor=pointer]: New Douglas
+                          - generic [ref=e1697] [cursor=pointer]: New Burnside
+                          - generic [ref=e1698] [cursor=pointer]: New Melle
+                          - generic [ref=e1699] [cursor=pointer]: New Cambria
+                          - generic [ref=e1700] [cursor=pointer]: New Madrid
+                          - generic [ref=e1701] [cursor=pointer]: Newtonia
+                          - generic [ref=e1702] [cursor=pointer]: New Franklin
+                          - generic [ref=e1703] [cursor=pointer]: Newman Grove
+                          - generic [ref=e1704] [cursor=pointer]: New Century
+                          - generic [ref=e1705] [cursor=pointer]: New Orleans
+                          - generic [ref=e1706] [cursor=pointer]: New Sarpy
+                          - generic [ref=e1707] [cursor=pointer]: New Iberia
+                          - generic [ref=e1708] [cursor=pointer]: New Llano
+                          - generic [ref=e1709] [cursor=pointer]: Newhope
+                          - generic [ref=e1710] [cursor=pointer]: New Edinburg
+                          - generic [ref=e1711] [cursor=pointer]: Newellton
+                          - generic [ref=e1712] [cursor=pointer]: New Roads
+                          - generic [ref=e1713] [cursor=pointer]: New Blaine
+                          - generic [ref=e1714] [cursor=pointer]: Newkirk
+                          - generic [ref=e1715] [cursor=pointer]: Newalla
+                          - generic [ref=e1716] [cursor=pointer]: New Caney
+                          - generic [ref=e1717] [cursor=pointer]: New Summerfield
+                          - generic [ref=e1718] [cursor=pointer]: New Braunfels
+                          - generic [ref=e1719] [cursor=pointer]: New Deal
+                          - generic [ref=e1720] [cursor=pointer]: New Home
+                          - generic [ref=e1721] [cursor=pointer]: New Raymer
+                          - generic [ref=e1722] [cursor=pointer]: Newdale
+                          - generic [ref=e1723] [cursor=pointer]: New Meadows
+                          - generic [ref=e1724] [cursor=pointer]: New Laguna
+                          - generic [ref=e1725] [cursor=pointer]: Newbury Park
+                          - generic [ref=e1726] [cursor=pointer]: Newport Coast
+                          - generic [ref=e1727] [cursor=pointer]: New Cuyama
+                          - generic [ref=e1728] [cursor=pointer]: Newberry Springs
+                          - generic [ref=e1729] [cursor=pointer]: Newport Beach
+                          - generic [ref=e1730] [cursor=pointer]: New Almaden
+                          - generic [ref=e1731] [cursor=pointer]: New Pine Creek
+                          - generic [ref=e1732] [cursor=pointer]: Newberg
+                          - generic [ref=e1733] [cursor=pointer]: Newman Lake
+                          - generic [ref=e1734] [cursor=pointer]: New Stuyahok
+                    - generic [ref=e1735]:
+                      - generic [ref=e1737]: State *
+                      - combobox [ref=e1739]
+                    - generic [ref=e1740]:
+                      - generic [ref=e1742]: ZIP Code *
+                      - textbox [ref=e1747]
+                - generic [ref=e1749]:
+                  - generic [ref=e1750]: Referring Provider
+                  - textbox [ref=e1755]
+              - generic [ref=e1756]:
+                - generic [ref=e1757]:
+                  - heading [level=6] [ref=e1758]:
+                    - text: Billing Information
+                    - generic [ref=e1759]: ( Optional )
+                  - separator [ref=e1760]
+                - generic [ref=e1761]:
+                  - generic [ref=e1762]:
+                    - radio [checked] [ref=e1763] [cursor=pointer]
+                    - generic [ref=e1764]: Insurance
+                  - generic [ref=e1765]:
+                    - radio [ref=e1766] [cursor=pointer]
+                    - generic [ref=e1767]: Self Pay
+                - generic [ref=e1769]:
+                  - generic [ref=e1770]:
+                    - paragraph [ref=e1771]: Insurance Plan Name
+                    - textbox [ref=e1774]
+                  - generic [ref=e1775]:
+                    - paragraph [ref=e1776]: "Group #"
+                    - textbox [ref=e1780]
+                  - generic [ref=e1781]:
+                    - paragraph [ref=e1782]: "Policy #"
+                    - textbox [ref=e1786]
+              - generic [ref=e1787]:
+                - generic [ref=e1788]: Notes
+                - textbox [ref=e1790]
+            - generic [ref=e1791]:
+              - button [ref=e1793] [cursor=pointer]:
+                - generic [ref=e1794] [cursor=pointer]: Register Patient
+              - button [ref=e1796] [cursor=pointer]:
+                - generic [ref=e1797] [cursor=pointer]: Cancel
+    - text: 
+    - dialog [ref=e1802]
+  - dialog [ref=e1806]:
+    - document [ref=e1807]:
+      - dialog [ref=e1811]:
+        - generic [ref=e1812]:
+          - generic [ref=e1813]:
+            - heading "Alert! Duplicate Patient Found" [level=6] [ref=e1814]
+            - button "Close modal dialog" [active] [ref=e1815] [cursor=pointer]:
+              - img [ref=e1817] [cursor=pointer]
+          - paragraph [ref=e1821]: First Name, Last Name & DOB matches with a different Patient in the system
+          - button "Close" [ref=e1824] [cursor=pointer]:
+            - generic [ref=e1825] [cursor=pointer]: Close
+```

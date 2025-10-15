@@ -1,0 +1,16 @@
+userName: "souravkumarsusar_BDOMuI"
+accessKey: "MA8VtsXVbi8oSyzjtqKQ"
+
+framework: playwright
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+testObservability: true
+debug: true
+consoleLogs: info
