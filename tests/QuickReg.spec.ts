@@ -14,8 +14,8 @@ test.only('Registering a new Patient', async ({ page }) => {
     await page.locator('//*[@id="tour-guide-patient-Step2"]/sl-dropdown/button').click();
     await page.getByRole('menuitem', { name: 'Quick Registration' }).locator('slot').nth(1).click();
 
-    await page.getByRole('textbox', { name: 'First Name *' }).fill('Second');
-    await page.getByRole('textbox', { name: 'Last Name * Sex at Birth *' }).fill('playwright');
+    await page.getByRole('textbox', { name: 'First Name *' }).fill('Third');
+    await page.getByRole('textbox', { name: 'Last Name * Sex at Birth *' }).fill('playwrightTaet');
     await page.getByRole('textbox', { name: 'Date of Birth *' }).fill('2010-03-06');
     await page.locator('div').filter({ hasText: /^SelectMaleFemaleUnknown$/ }).locator('#lastname').selectOption('Male');
     await page.getByRole('textbox', { name: 'Mobile Phone *' }).fill('(222)222-22225');

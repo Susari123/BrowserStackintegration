@@ -14,3 +14,8 @@ projectName: BrowserStack Sample
 testObservability: true
 debug: true
 consoleLogs: info
+disableAutoCaptureLogs: true
+
+
+
+

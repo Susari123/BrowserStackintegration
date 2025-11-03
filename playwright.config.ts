@@ -7,7 +7,13 @@ export default defineConfig({
   timeout: 120000,
 
   use: {
-    headless: true,
-    trace: 'on-first-retry',
+    headless: true,                        // run in headless mode
+    trace: 'on-first-retry',               // collect trace on first retry
+
+    // 🧩 Add these two lines:
+    viewport: null,                        // disable Playwright's default 1280x720
+    launchOptions: {
+      args: ['--start-maximized'],         // launch browser maximized
+    },
   },
 });
