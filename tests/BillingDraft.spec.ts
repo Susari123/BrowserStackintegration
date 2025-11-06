@@ -6,7 +6,7 @@ test.setTimeout(180000); // 3 minutes timeout
 
 test.only('Billing - Generate a draft Claim ', async ({ page }) => {
     try{
-       await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Test@123Test');
+       await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Sourav@123');
     // await expect(page.locator('h4:has-text("dashboard")')).toBeVisible();
     console.log('✅ Dashboard is visible after login');
     // ===================== BILLING PAGE =====================

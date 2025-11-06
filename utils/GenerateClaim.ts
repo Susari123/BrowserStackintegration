@@ -25,7 +25,7 @@ export async function generateClaimFlow(page: Page, extraSteps?: () => Promise<v
     const patientNameInput = page.locator("//ed-drawer-body/div[1]/div[1]/div/type-ahead/div/input");
     await patientNameInput.fill('Test Sourav');
     await page.waitForTimeout(1000);
-    await page.click("//type-ahead/div/div/div");
+    await page.click("//type-ahead/div/div/div[1]");
     console.log('✅ Patient selected');
 
     // ===================== ENCOUNTER SELECTION =====================

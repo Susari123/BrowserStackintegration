@@ -33,15 +33,16 @@ test.only('Billing - Patient payment', async ({ page }) => {
   await page.getByRole('textbox', { name: 'Search Patient' }).fill('Test');
   // await expect(page.locator('div').filter({ hasText: /^Test A25Y \| M01-01-2000MRN: M6SA3T121349$/ }).getByRole('img')).toBeVisible();
 
- await page.locator('//ed-drawer/ed-drawer-body/div[3]/div/type-ahead/div/div/div[1]').click();
+  await page.locator('//ed-drawer/ed-drawer-body/div[3]/div/type-ahead/div/div/div[1]').click();
   await page.locator('ng-select').filter({ hasText: /^×$/ }).locator('div').nth(3).click();
   // await expect(page.getByRole('listbox', { name: 'Options List' })).toBeVisible();
 
-  await page.getByRole('option', { name: 'Cash' }).click();
+  await page.getByRole('option', { name: 'Check' }).click();
   await page.getByRole('spinbutton').click();
+  await page.locator("//input[@formcontrolname='chequeNumber']").fill('12345667');
   await page.getByRole('spinbutton').fill('120');
   await page.locator('textarea').click();
-  await page.locator('textarea').fill('Test Cash 1');
+  await page.locator('textarea').fill('Test check 1');
   await page.getByText('Received DatePayment Type×').click();
   await page.getByRole('button', { name: 'Add New Payment', exact: true }).click();
     await BrowserStackHelper.markTestStatus(page, 'passed', 'Billing claim generated successfully');

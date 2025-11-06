@@ -6,7 +6,7 @@ test.setTimeout(120000);
 
 test.only('Registering a new Patient', async ({ page }) => {
   try {
-    await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Test@123Test');
+    await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Sourav@123');
 
     await page.getByRole('button', { name: 'Navigate to patient list' }).click();
     await expect(page.getByRole('table', { name: 'Patient List Table' })).toBeVisible();
@@ -15,7 +15,7 @@ test.only('Registering a new Patient', async ({ page }) => {
     await page.getByRole('menuitem', { name: 'Quick Registration' }).locator('slot').nth(1).click();
 
     await page.getByRole('textbox', { name: 'First Name *' }).fill('Third');
-    await page.getByRole('textbox', { name: 'Last Name * Sex at Birth *' }).fill('playwrightTaet');
+    await page.getByRole('textbox', { name: 'Last Name * Sex at Birth *' }).fill('Tes');
     await page.getByRole('textbox', { name: 'Date of Birth *' }).fill('2010-03-06');
     await page.locator('div').filter({ hasText: /^SelectMaleFemaleUnknown$/ }).locator('#lastname').selectOption('Male');
     await page.getByRole('textbox', { name: 'Mobile Phone *' }).fill('(222)222-22225');

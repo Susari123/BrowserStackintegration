@@ -7,7 +7,7 @@ test.setTimeout(120000);
 test('should create a new encounter and submit to billing', async ({ page }) => {
   try {
     // Login using helper
-    await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Test@123Test');
+    await LoginHelper.login(page, 'souravsusari311@gmail.com', 'Sourav@123');
 
     // --- Your existing test steps here ---
     await page.locator('a[aria-label="Navigate to billing screen"]').click();
