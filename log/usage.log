@@ -9239,3 +9239,973 @@
 2025-11-05 09:16:57 - [32minfo[39m: Local binary stopped
 2025-11-05 09:16:57 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
 2025-11-05 09:16:57 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 08:50:57 - [32minfo[39m: Reading configs from C:\Users\sksusari\playwright-browserstac\browserstack.yml
+2025-11-06 08:50:57 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 08:50:57 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 08:50:57 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test
+2025-11-06 08:50:57 - [32minfo[39m: SDK run started with id: 8b9b0812-1e63-4d76-8819-7171e13b8e09
+2025-11-06 08:51:15 - [32minfo[39m: Local binary started successfully
+2025-11-06 08:50:57 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test
+2025-11-06 08:50:57 - [32minfo[39m: SDK run started with id: 8b9b0812-1e63-4d76-8819-7171e13b8e09
+2025-11-06 08:51:15 - [32minfo[39m: Local binary started successfully
+2025-11-06 08:51:17 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 08:51:17 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 08:51:17 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 08:51:17 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 08:51:18 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 08:51:18 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 08:51:19 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"116e42a7-b5e3-4817-9cbe-90ce15c1244a","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 08:51:19 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"116e42a7-b5e3-4817-9cbe-90ce15c1244a","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 116e42a7-b5e3-4817-9cbe-90ce15c1244a and listen address: 127.0.0.1:5400
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test"], parsedConfig=[]
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 116e42a7-b5e3-4817-9cbe-90ce15c1244a and listen address: 127.0.0.1:5400
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 08:51:19 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test"], parsedConfig=[]
+2025-11-06 08:51:27 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 08:51:27 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test"]
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test"]
+2025-11-06 08:51:27 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:51:38 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:38 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:51:38 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:51:40 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:51:40 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:51:40 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:40 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:51:40 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:51:40 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:51:40 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:51:40 - [32minfo[39m: Setting up TestInfo directory at C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default
+2025-11-06 08:51:40 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: created instance for target=25820:0, state=TestFrameworkState.INIT_TEST
+2025-11-06 08:51:40 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: saved instance contextId=cbee88ba4c7f2d488607f96ac95e383a943cc702ab3f0953c8e5bddc337758bb target=25820:0
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:51:52 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:51:52 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:51:52 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:51:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=9104:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:51:52 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=9030593abe0baf8f19962c16b5048cc5464a8c5c99382b06cd537d21fb32fc31 target=9104:0
+2025-11-06 08:51:52 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:51:54 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:51:54 - [32minfo[39m: [PlaywrightDriverModule] testId: f6caa1260561889e2715-d09a19ad73a820ad852d
+2025-11-06 08:51:54 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '697854a5-a18b-47fc-b857-17663fdc2bf2' }
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:51:54 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack-f6caa1260561889e2715-d09a19ad73a820ad852d-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:51:54 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:51:54 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:52:02 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:02 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:02 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:52:02 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=23020:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:52:02 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=c875c1488137930dd2ea6d9c387cee3e8921b0f10c031d44fadc59a97ef4d0b8 target=23020:0
+2025-11-06 08:52:02 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:52:04 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:52:04 - [32minfo[39m: [PlaywrightDriverModule] testId: 47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7
+2025-11-06 08:52:04 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '00552d06-6e39-410e-9e56-160c9ffbea20' }
+2025-11-06 08:52:04 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:52:04 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:52:05 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack3-47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:05 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:52:05 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:52:05 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:52:05 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:05 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:52:13 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:13 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:13 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:52:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=16632:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:52:13 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=d4f54769298b9043594afad6c9b46964af1aad057b3c5cf442cc6888006ba2ec target=16632:0
+2025-11-06 08:52:13 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:52:16 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:52:16 - [32minfo[39m: [PlaywrightDriverModule] testId: f0fb90b98d497282ea2c-9b5a4a6497f039a79049
+2025-11-06 08:52:16 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '372c75be-c3dd-4130-9438-37c9035e4c1c' }
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:52:16 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack4-f0fb90b98d497282ea2c-9b5a4a6497f039a79049-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:16 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:16 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:52:24 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:24 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:24 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:52:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=20324:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:52:24 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=35f4f71b022cbaf77dbada1be48e006038954d33113dc4fd202bd018daa96a43 target=20324:0
+2025-11-06 08:52:24 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:52:27 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:52:27 - [32minfo[39m: [PlaywrightDriverModule] testId: 07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4
+2025-11-06 08:52:27 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'dbf97405-836a-4059-b9bd-a2d4456f1e0c' }
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:52:27 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack5-07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:27 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:27 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:52:36 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:36 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:36 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:52:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=26552:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:52:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=f21df4fe00030003350d0f6f3a5a753bf4c58be2d9021d85371b613b7b6ae489 target=26552:0
+2025-11-06 08:52:36 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:52:38 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:52:38 - [32minfo[39m: [PlaywrightDriverModule] testId: a47be54da3805ec4758b-4933b90a269c8be950e1
+2025-11-06 08:52:38 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '041d9b02-af81-4223-ac3a-180fac8f9a1f' }
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:52:38 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack6-a47be54da3805ec4758b-4933b90a269c8be950e1-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:38 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:38 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 08:52:47 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTest (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:12676)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:7913)
+    at MyReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:7479)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:57:33)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:40
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:41:7)
+    at InternalReporter.onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:60:33)
+    at JobDispatcher._onTestBegin (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:231:33)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:47 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 116e42a7-b5e3-4817-9cbe-90ce15c1244a
+2025-11-06 08:52:47 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 08:52:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=17628:0, state=AutomationFrameworkState.CREATE
+2025-11-06 08:52:47 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=58c8d1699f5f00866a2a9fb30513af8397790d52a46f1e4d41bfe85cbde2713b target=17628:0
+2025-11-06 08:52:47 - [32minfo[39m: Processed accessibility caps false {"browserstack.user":"souravkumarsusar_BDOMuI","browserstack.key":"MA8VtsXVbi8oSyzjtqKQ","build":"bstack-demo","browserstack.buildIdentifier":"20","project":"BrowserStack Sample","browserstack.debug":true,"browserstack.console":"info","turboScaleOptions":{},"os":"Windows","os_version":"11","browserstack.hostName":"EDVAKPC-62","browserstack.browserstackSDK":"Playwright-nodeagent/1.45.2","browserstack.buildProductMap":{"observability":true,"accessibility":false,"percy":false,"automate":true,"app_automate":false,"turboscale":false,"central_scanner":false},"browserstack.use_w3c":false,"browser":"chrome","browser_version":"latest","browserstack.testhubBuildUuid":"61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin","browserstack.local":true,"browserstack.localIdentifier":"Nov_6_0851_EDVAKPC-62_yjc1"} 
+2025-11-06 08:52:50 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 08:52:50 - [32minfo[39m: [PlaywrightDriverModule] testId: 7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb
+2025-11-06 08:52:50 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'c216c86a-8014-48b5-91f2-54d644156e7d' }
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 08:52:50 - [33mwarn[39m: Failed to acquire lock for C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json: Error: EINVAL: invalid argument, mkdir 'C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json.lock'
+    at Object.mkdirSync (node:fs:1364:26)
+    at Object.newFs.<computed> [as mkdir] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:15:42)
+    at acquireLock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:29:16)
+    at RetryOperation._fn (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:233:13)
+    at RetryOperation.attempt (C:\Users\sksusari\playwright-browserstac\node_modules\retry\lib\retry_operation.js:112:8)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:232:19
+    at Object.newFs.<computed> [as realpath] (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:20:13)
+    at resolveCanonicalPath (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:22:16)
+    at lock (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\lockfile.js:224:5)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\lib\adapter.js:53:9
+    at AsyncFunction.lockSync (C:\Users\sksusari\playwright-browserstac\node_modules\proper-lockfile\index.js:13:42)
+    at Function.setTestDetails (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\TestInfo.js:1:8859)
+    at PlaywrightTestFramework.parsePlaywrightTestResult (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:20411)
+    at PlaywrightTestFramework.trackEvent (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\v2\framework\playwrightTestFramework.js:1:8479)
+    at MyReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\playwright\reporter\reporter.js:1:11500)
+    at MyReporter.value (C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\helpers\test-observability\error-handler.js:1:4094)
+    at ReporterV2Wrapper.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\reporterV2.js:74:31)
+    at C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:38
+    at wrap (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:96:5)
+    at Multiplexer.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\multiplexer.js:53:7)
+    at InternalReporter.onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\reporters\internalReporter.js:70:31)
+    at JobDispatcher._reportTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:487:31)
+    at JobDispatcher._onTestEnd (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\dispatcher.js:259:10)
+    at WorkerHost.emit (node:events:518:28)
+    at ChildProcess.<anonymous> (C:\Users\sksusari\playwright-browserstac\node_modules\playwright\lib\runner\processHost.js:93:16)
+    at ChildProcess.emit (node:events:518:28)
+    at emit (node:internal/child_process:949:14)
+    at processTicksAndRejections (node:internal/process/task_queues:91:21) {
+  errno: -4071,
+  code: 'EINVAL',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\sksusari\\playwright-browserstac\\log\\.obs_test_details-default\\-latest:Windows 11-browserstack7-7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb-0.json.lock'
+}. Unable to set test details.
+2025-11-06 08:52:50 - [32minfo[39m: getting screenshots results.
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 08:52:50 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 08:52:50 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 08:52:50 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 08:52:57 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 08:52:57 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 08:52:57 - [32minfo[39m: stop: stopBinSession build_link=https://automate.browserstack.com/dashboard/v2/builds/78f6c6713349fcf0de28c6b2e411a7ccfd01bb56 hashed_id=78f6c6713349fcf0de28c6b2e411a7ccfd01bb56 o11y_uuid=61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin
+2025-11-06 08:52:57 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 08:52:57 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 08:52:57 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 08:52:57 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 08:53:02 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 08:53:02 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 08:53:02 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 08:53:02 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 08:53:02 - [32minfo[39m: Visit https://automation.browserstack.com/builds/61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin to view build report, insights, and many more debugging information all at one place!
+
+2025-11-06 08:53:03 - [32minfo[39m: SDK run ended for id: 8b9b0812-1e63-4d76-8819-7171e13b8e09, testhub id: 61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin
+2025-11-06 08:53:03 - [32minfo[39m: SDK run ended for id: 8b9b0812-1e63-4d76-8819-7171e13b8e09, testhub id: 61ehzdeipd5m6upbkpky0r7agq3d2hmcoc0rrjin
+2025-11-06 08:53:03 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 08:53:03 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 08:53:09 - [32minfo[39m: Local binary stopped
+2025-11-06 08:53:09 - [32minfo[39m: Local binary stopped
+2025-11-06 08:53:09 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 08:53:09 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 09:11:10 - [32minfo[39m: Reading configs from C:\Users\sksusari\playwright-browserstac\browserstack.yml
+2025-11-06 09:11:10 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 09:11:10 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 09:11:10 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test
+2025-11-06 09:11:10 - [32minfo[39m: SDK run started with id: 42c2ec30-5986-4edc-ac51-7d94b267ce79
+2025-11-06 09:11:29 - [32minfo[39m: Local binary started successfully
+2025-11-06 09:11:10 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test
+2025-11-06 09:11:10 - [32minfo[39m: SDK run started with id: 42c2ec30-5986-4edc-ac51-7d94b267ce79
+2025-11-06 09:11:29 - [32minfo[39m: Local binary started successfully
+2025-11-06 09:11:32 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 09:11:32 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 09:11:32 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 09:11:32 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 09:11:34 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 09:11:34 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 09:11:35 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"b979c8e4-e2d4-4b47-a5de-935c844d8952","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 09:11:35 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"b979c8e4-e2d4-4b47-a5de-935c844d8952","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: b979c8e4-e2d4-4b47-a5de-935c844d8952 and listen address: 127.0.0.1:5400
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test"], parsedConfig=[]
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: b979c8e4-e2d4-4b47-a5de-935c844d8952 and listen address: 127.0.0.1:5400
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 09:11:35 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test"], parsedConfig=[]
+2025-11-06 09:11:42 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 09:11:42 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test"]
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test"]
+2025-11-06 09:11:42 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:11:51 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:51 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:11:51 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:11:53 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:11:53 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:11:53 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:53 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:11:53 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:11:53 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:11:53 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:11:53 - [32minfo[39m: Setting up TestInfo directory at C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default
+2025-11-06 09:11:53 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: created instance for target=25856:0, state=TestFrameworkState.INIT_TEST
+2025-11-06 09:11:53 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: saved instance contextId=1229927acd3aec97944653e257ef80aa27a9893136b6cf9d71d9e36a50fbf0b6 target=25856:0
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:11:59 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:11:59 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:11:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=19648:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:11:59 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=9d2ebfaf44d5221f7bb74cc4ced0bc916869b40821b7b2c21b2136eab05f20e1 target=19648:0
+2025-11-06 09:12:01 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:01 - [32minfo[39m: [PlaywrightDriverModule] testId: f6caa1260561889e2715-d09a19ad73a820ad852d
+2025-11-06 09:12:01 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'd892c207-9fcf-4be9-a3c9-bbe4e6becc5e' }
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:12:01 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:01 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:07 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:07 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:12:07 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=25884:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:12:07 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=e50063350c8ddd253caa5948c8402dc70a74ba3ada9fe114d65b73ae1801a06b target=25884:0
+2025-11-06 09:12:10 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:10 - [32minfo[39m: [PlaywrightDriverModule] testId: 47bceb88c780cdfd367e-6338d4c4458a7a4a5fb7
+2025-11-06 09:12:10 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'a316e21f-a13e-42ad-96ce-3a637af25f4a' }
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:12:10 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:10 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:16 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:16 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:12:16 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=22544:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:12:16 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=8744310b089ad22ad417a54f6ac577fb5b77de358a2179ed106b70e105832f4e target=22544:0
+2025-11-06 09:12:19 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:19 - [32minfo[39m: [PlaywrightDriverModule] testId: f0fb90b98d497282ea2c-9b5a4a6497f039a79049
+2025-11-06 09:12:19 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '30f4ed37-3981-4467-ada8-d9dba5c241f9' }
+2025-11-06 09:12:19 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:19 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:19 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:19 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:19 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:19 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:25 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:25 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:12:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=21724:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:12:25 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=5e841af588f346e56ce44403c861cb5314c34bad86a3fa778d903f650ce1e275 target=21724:0
+2025-11-06 09:12:28 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:28 - [32minfo[39m: [PlaywrightDriverModule] testId: 07d3292eeb8afb4018d9-f3ce2e1b3e61e97ec0c4
+2025-11-06 09:12:28 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'b140c1ed-912f-43e6-b4b3-443955b088e9' }
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:12:28 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:28 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:33 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:33 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:12:33 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:12:34 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:12:34 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:12:34 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:12:34 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:34 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:34 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:12:34 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=8776:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:12:34 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=a377c2b0074333bd1b56723286be884d45b92275121d94a06e2d4bba7e8a0a99 target=8776:0
+2025-11-06 09:12:36 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:37 - [32minfo[39m: [PlaywrightDriverModule] testId: a47be54da3805ec4758b-4933b90a269c8be950e1
+2025-11-06 09:12:37 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '30b6a99a-6dfa-452b-8b6b-7dd44e553eba' }
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:12:37 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:37 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:43 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: b979c8e4-e2d4-4b47-a5de-935c844d8952
+2025-11-06 09:12:43 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:12:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=7268:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:12:43 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=9198e0a872335fe68031cdbe933227b0a9750a8ad67761f3fc29a6d57495727e target=7268:0
+2025-11-06 09:12:44 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:12:44 - [32minfo[39m: [PlaywrightDriverModule] testId: 7af0a7fdf7a5e32e206b-fb6f388a6b701a3dc7eb
+2025-11-06 09:12:44 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: 'e57981c3-2e48-4e8e-a44d-1fb35db67157' }
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:12:44 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:12:44 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 09:12:44 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 09:12:44 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 09:12:51 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 09:12:51 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 09:12:51 - [32minfo[39m: stop: stopBinSession build_link=null hashed_id=null o11y_uuid=yv35hi5chu9g3hbhgo4i4mmtdmlrees2ttvgigfq
+2025-11-06 09:12:51 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 09:12:51 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 09:12:51 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 09:12:51 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 09:12:56 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 09:12:56 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 09:12:56 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 09:12:56 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 09:12:56 - [32minfo[39m: Visit https://automation.browserstack.com/builds/yv35hi5chu9g3hbhgo4i4mmtdmlrees2ttvgigfq to view build report, insights, and many more debugging information all at one place!
+
+2025-11-06 09:12:57 - [32minfo[39m: SDK run ended for id: 42c2ec30-5986-4edc-ac51-7d94b267ce79, testhub id: yv35hi5chu9g3hbhgo4i4mmtdmlrees2ttvgigfq
+2025-11-06 09:12:57 - [32minfo[39m: SDK run ended for id: 42c2ec30-5986-4edc-ac51-7d94b267ce79, testhub id: yv35hi5chu9g3hbhgo4i4mmtdmlrees2ttvgigfq
+2025-11-06 09:12:57 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 09:12:57 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 09:13:02 - [32minfo[39m: Local binary stopped
+2025-11-06 09:13:02 - [32minfo[39m: Local binary stopped
+2025-11-06 09:13:02 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 09:13:02 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 09:17:55 - [32minfo[39m: Reading configs from C:\Users\sksusari\playwright-browserstac\browserstack.yml
+2025-11-06 09:17:55 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 09:17:55 - [32minfo[39m: Log Directory has been set to C:\Users\sksusari\playwright-browserstac\log
+2025-11-06 09:17:55 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test tests/BillingDraft.spec.ts
+2025-11-06 09:17:55 - [32minfo[39m: SDK run started with id: b1736196-a7c1-49d5-80bc-cc902ffeb2e5
+2025-11-06 09:18:13 - [32minfo[39m: Local binary started successfully
+2025-11-06 09:17:55 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe C:\Users\sksusari\playwright-browserstac\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test tests/BillingDraft.spec.ts
+2025-11-06 09:17:55 - [32minfo[39m: SDK run started with id: b1736196-a7c1-49d5-80bc-cc902ffeb2e5
+2025-11-06 09:18:13 - [32minfo[39m: Local binary started successfully
+2025-11-06 09:18:15 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 09:18:15 - [32minfo[39m: [BrowserstackCLI] startMain: Starting main process
+2025-11-06 09:18:15 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 09:18:15 - [32minfo[39m: [CLIUtils] Current CLI Path Found: C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe
+2025-11-06 09:18:16 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 09:18:16 - [32minfo[39m: [BrowserstackCLI] spawning command='C:\Users\sksusari\.browserstack\cli\binary-win-x64.exe,sdk'
+2025-11-06 09:18:17 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"5db29fbd-014f-455f-a8d2-2dd5d4a75f0c","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 09:18:17 - [32minfo[39m: [BrowserstackCLI] CLI params loaded: {"id":"5db29fbd-014f-455f-a8d2-2dd5d4a75f0c","listen":"127.0.0.1:5400","port":"5400"}
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 5db29fbd-014f-455f-a8d2-2dd5d4a75f0c and listen address: 127.0.0.1:5400
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test","tests/BillingDraft.spec.ts"], parsedConfig=[]
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] Initialized gRPC client with bin session id: 5db29fbd-014f-455f-a8d2-2dd5d4a75f0c and listen address: 127.0.0.1:5400
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] startBinSession: Calling startBinSession
+2025-11-06 09:18:17 - [32minfo[39m: [GrpcClient] setCliArgs: cliArgs=["playwright","test","tests/BillingDraft.spec.ts"], parsedConfig=[]
+2025-11-06 09:18:23 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 09:18:23 - [32minfo[39m: [GrpcClient] StartBinSession successful
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test","tests/BillingDraft.spec.ts"]
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] setCliArgs: cliArgs=["playwright","test","tests/BillingDraft.spec.ts"]
+2025-11-06 09:18:23 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:18:32 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:32 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:18:32 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:18:34 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:18:34 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:18:34 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:34 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:18:34 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:18:34 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:18:34 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:18:34 - [32minfo[39m: Setting up TestInfo directory at C:\Users\sksusari\playwright-browserstac\log\.obs_test_details-default
+2025-11-06 09:18:34 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: created instance for target=25300:0, state=TestFrameworkState.INIT_TEST
+2025-11-06 09:18:34 - [32minfo[39m: [PlaywrightTestFramework] trackPlaywrightInstance: saved instance contextId=976ba4fbca4f0d624d6f3ec86b5bb14b0a139374828bf9d18c927322f6922790 target=25300:0
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] Connected to gRPC server at 127.0.0.1:5400
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] Connecting bin session
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] ConnectBinSession successful
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] loadModules: Loading modules
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] loadModules: binSessionId=5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] loading Modules.
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] Accessibility success=false
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] Getting Playwright config
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] PlaywrightConfig request successful
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] Starting as child process with session ID: 5db29fbd-014f-455f-a8d2-2dd5d4a75f0c
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:18:40 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:18:40 - [32minfo[39m: [BrowserstackCLI] startChild: client and channel already exist, stopping here
+2025-11-06 09:18:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: created instance for target=15724:0, state=AutomationFrameworkState.CREATE
+2025-11-06 09:18:40 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: saved instance contextId=61375c743fa6c7ffa66c4a9074bcc2deafcaafaacfae570b5ba92e4ef5d9ee8f target=15724:0
+2025-11-06 09:18:42 - [32minfo[39m: [PlaywrightAutomationFramework] trackPlaywrightInstance: instance already exists
+2025-11-06 09:18:42 - [32minfo[39m: [PlaywrightDriverModule] testId: f6caa1260561889e2715-d09a19ad73a820ad852d
+2025-11-06 09:18:42 - [32minfo[39m: [PlaywrightDriverModule] testData from onAfterTest: { uuid: '5e5c8454-a95a-4c56-a3d1-ab18f3a7a53a' }
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] Sending TestSessionEvent
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] TestSessionEvent request successful
+2025-11-06 09:18:42 - [32minfo[39m: getting screenshots results.
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] Sending LogCreatedEvent
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] LogCreatedEvent request successful
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] Sending TestFrameworkEvent
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] TestFrameworkEvent request successful
+2025-11-06 09:18:42 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 09:18:42 - [32minfo[39m: [BrowserstackCLI] stop: CLI stop triggered
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 09:18:42 - [32minfo[39m: [GrpcClient] Stopping bin session
+2025-11-06 09:18:48 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 09:18:48 - [32minfo[39m: [GrpcClient] StopBinSession successful
+2025-11-06 09:18:48 - [32minfo[39m: stop: stopBinSession build_link=null hashed_id=null o11y_uuid=0bq84nkztl6f94sbgbtjkznmu90vlsivs2wtbtyr
+2025-11-06 09:18:48 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 09:18:48 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 09:18:48 - [32minfo[39m: [BrowserstackCLI] Unconfiguring modules
+2025-11-06 09:18:48 - [32minfo[39m: [BrowserstackCLI] stop: channel closed
+2025-11-06 09:18:53 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 09:18:53 - [32minfo[39m: [BrowserstackCLI] stop: shutting down CLI
+2025-11-06 09:18:53 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 09:18:53 - [32minfo[39m: [BrowserstackCLI] stop: CLI process exited
+2025-11-06 09:18:53 - [32minfo[39m: Visit https://automation.browserstack.com/builds/0bq84nkztl6f94sbgbtjkznmu90vlsivs2wtbtyr to view build report, insights, and many more debugging information all at one place!
+
+2025-11-06 09:18:54 - [32minfo[39m: SDK run ended for id: b1736196-a7c1-49d5-80bc-cc902ffeb2e5, testhub id: 0bq84nkztl6f94sbgbtjkznmu90vlsivs2wtbtyr
+2025-11-06 09:18:54 - [32minfo[39m: SDK run ended for id: b1736196-a7c1-49d5-80bc-cc902ffeb2e5, testhub id: 0bq84nkztl6f94sbgbtjkznmu90vlsivs2wtbtyr
+2025-11-06 09:18:54 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 09:18:54 - [32minfo[39m: Deleting C:\Users\sksusari\playwright-browserstac\playwright-browserstack-sdk.config.ts
+2025-11-06 09:18:59 - [32minfo[39m: Local binary stopped
+2025-11-06 09:18:59 - [32minfo[39m: Local binary stopped
+2025-11-06 09:18:59 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2025-11-06 09:18:59 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop

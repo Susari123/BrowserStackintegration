@@ -1,21 +1,20 @@
 "" 
 
-Wed Nov 05 2025 09:15:11:313 GMT+0530 (India Standard Time) -- Binary semantic version is v8.9.22
-Wed Nov 05 2025 09:15:11:314 GMT+0530 (India Standard Time) -- Setting output as extra verbose with request parsing
-Wed Nov 05 2025 09:15:14:362 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
-Wed Nov 05 2025 09:15:14:617 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+Thu Nov 06 2025 09:18:10:549 GMT+0530 (India Standard Time) -- Binary semantic version is v8.9.22
+Thu Nov 06 2025 09:18:10:549 GMT+0530 (India Standard Time) -- Setting output as extra verbose with request parsing
+Thu Nov 06 2025 09:18:12:780 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Wed Nov 05 2025 09:15:16:230 GMT+0530 (India Standard Time) -- undefined
-Wed Nov 05 2025 09:15:18:516 GMT+0530 (India Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
-Wed Nov 05 2025 09:15:18:516 GMT+0530 (India Standard Time) -- Platform supports WebSocket connections.
+Thu Nov 06 2025 09:18:13:236 GMT+0530 (India Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Thu Nov 06 2025 09:18:13:237 GMT+0530 (India Standard Time) -- Platform supports WebSocket connections.
 
-Wed Nov 05 2025 09:15:18:637 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+Thu Nov 06 2025 09:18:13:338 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
 
 
+Thu Nov 06 2025 09:18:13:559 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
 
-Wed Nov 05 2025 09:15:25:963 GMT+0530 (India Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
-Wed Nov 05 2025 09:15:28:278 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+Thu Nov 06 2025 09:18:22:380 GMT+0530 (India Standard Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Thu Nov 06 2025 09:18:23:363 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Wed Nov 05 2025 09:15:29:341 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+Thu Nov 06 2025 09:18:23:478 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
 
 
